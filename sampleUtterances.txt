@@ -1,0 +1,8 @@
+SkillFactIntent a fact
+SkillFactIntent tell me a fact
+SkillFactIntent give me a fact
+SkillFactIntent tell me trivia
+SkillFactIntent give me trivia
+SkillFactIntent give me some information
+SkillFactIntent tell me something
+SkillFactIntent give me something

@@ -1,0 +1,33 @@
+Alexa Skills Development Refs
+=============================
+https://developer.amazon.com/alexa
+https://developer.amazon.com/alexa-skills-kit
+https://github.com/alexa
+
+Lambda
+======
+https://aws.amazon.com/lambda/
+
+
+Skill Templates
+===============
+https://github.com/alexa/skill-sample-nodejs-howto
+https://github.com/alexa/skill-sample-nodejs-fact
+
+
+JSON Interface Reference For Custom Skills
+==========================================
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interface-reference#Response%20Format
+
+Testing 
+=======
+https://echosim.io/
+
+Online Tutorials
+================ 
+https://www.udemy.com/amazonalexa/
+
+Templates
+=========
+https://github.com/alexa/skill-sample-nodejs-fact
+https://github.com/alexa/skill-sample-nodejs-howto

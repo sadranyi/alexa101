@@ -1,0 +1,29 @@
+{
+  "name": "alexa101",
+  "version": "1.0.0",
+  "description": "Hackster Alexa Skills Workshop",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadranyi/alexa101.git"
+  },
+  "keywords": [
+    "alexa",
+    "skills",
+    "facts",
+    "hackster"
+  ],
+  "author": "Samuel S. K. Adranyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadranyi/alexa101/issues"
+  },
+  "homepage": "https://github.com/sadranyi/alexa101#readme"
+}
